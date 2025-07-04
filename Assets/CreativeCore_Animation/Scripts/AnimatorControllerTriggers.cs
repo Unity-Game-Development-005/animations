@@ -6,7 +6,7 @@ public class AnimatorControllerTriggers : MonoBehaviour
 {
     private Animator anim;
 
-    // Start is called before the first frame update
+    
     void Start()
     {
         anim = GetComponent<Animator>();
